@@ -37,5 +37,5 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 3. **Run the Analysis:**
 Open aqi_predictor.ipynb in your preferred IDE (VS Code, Jupyter, or Colab) and run all cells.
-📈 Results
+## 📈 Results
 The ensemble approach (Voting Regressor) and Random Forest demonstrated the strongest performance, highlighting $PM_{2.5}$ as a primary driver for AQI levels.Developed for environmental data analysis and AI research.
